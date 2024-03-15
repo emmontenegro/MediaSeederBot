@@ -1,2 +1,2 @@
 # MediaSeederBot
-A Telegram bot designed to automate the finding and downloading of movie torrents for seamless media server integration.
+A Telegram bot designed for seamless integration with media servers, utilizing Python and APIs to locate and responsibly download legal torrents for personal use, ensuring a smooth and ethical streaming experience.
