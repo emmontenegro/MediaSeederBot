@@ -1,2 +1,2 @@
 # MediaSeederBot
-Streamline your movie nights with a Python-powered bot that finds, downloads, and adds torrents directly to Plex.
+A Telegram bot designed to automate the finding and downloading of movie torrents for seamless media server integration.
